@@ -160,4 +160,17 @@ public class LoanService {
                 .remarks(tx.getRemarks())
                 .build();
     }
+    public List<LoanResponse> getAllLoans() {
+    return loanRepository.findAll()
+            .stream()
+            .map(loan -> {
+                BigDecimal emi = calculateEmi(
+                        loan.getPrincipal(),
+                        loan.getAnnualInterestRate(),
+                        loan.getTenureMonths()
+                );
+                return toResponse(loan, emi, List.of());
+            })
+            .toList();
+}
 }
