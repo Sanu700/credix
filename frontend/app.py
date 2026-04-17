@@ -3,7 +3,7 @@ import requests
 from datetime import date
 import pandas as pd
 
-BASE_URL = "http://localhost:8080/loan"
+BASE_URL = "https://credix-1.onrender.com"
 
 st.set_page_config(
     page_title="DebtForge",
