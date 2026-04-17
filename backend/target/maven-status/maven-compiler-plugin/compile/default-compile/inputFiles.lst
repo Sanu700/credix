@@ -1,0 +1,15 @@
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\model\Loan.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\dto\PaymentRequest.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\dto\LoanRequest.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\controller\LoanController.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\config\WebConfig.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\DebtForgeApplication.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\exception\LoanNotFoundException.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\repository\TransactionRepository.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\model\Transaction.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\dto\LoanResponse.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\service\LoanService.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\dto\EmiResponse.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\dto\TransactionResponse.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\repository\LoanRepository.java
+C:\Users\sanvi\Downloads\DebtForge\DebtForge\backend\src\main\java\com\debtforge\exception\GlobalExceptionHandler.java

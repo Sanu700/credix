@@ -1,0 +1,9 @@
+com\debtforge\repository\TransactionRepository.class
+com\debtforge\dto\EmiResponse.class
+com\debtforge\model\Loan$LoanStatus.class
+com\debtforge\exception\LoanNotFoundException.class
+com\debtforge\model\Loan.class
+com\debtforge\model\Transaction$TransactionType.class
+com\debtforge\model\Transaction.class
+com\debtforge\config\WebConfig.class
+com\debtforge\repository\LoanRepository.class
