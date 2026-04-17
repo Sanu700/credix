@@ -37,4 +37,8 @@ public class LoanController {
             @Valid @RequestBody PaymentRequest request) {
         return ResponseEntity.status(HttpStatus.CREATED).body(loanService.recordPayment(id, request));
     }
+    @GetMapping("/all")
+public ResponseEntity<List<LoanResponse>> getAllLoans() {
+    return ResponseEntity.ok(loanService.getAllLoans());
+}
 }
